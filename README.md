@@ -1,6 +1,6 @@
-## Getting started with Next.js and Replicate
+## SAM2 Video Segmentation Demo
 
-This branch uses Typescript, Tailwind and the Next.js App Router
+This demo is based off the Next.js Replicate Starter. This branch uses Typescript, Tailwind and the Next.js App Router
 
 This is a [Next.js](https://nextjs.org/) template project that's preconfigured to work with Replicate's API.
 
@@ -40,6 +40,5 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser.
 
-For detailed instructions on how to create and use this template, see [replicate.com/docs/get-started/nextjs](https://replicate.com/docs/get-started/nextjs)
 
-<img width="698" alt="iguana" src="https://github.com/replicate/getting-started-nextjs-typescript/assets/14337872/f40cf84f-f309-44d5-8429-9a1cda911d6d">
+<img width="698" alt="demo screenshot" src="/static/sam2videosegdemo.png">
